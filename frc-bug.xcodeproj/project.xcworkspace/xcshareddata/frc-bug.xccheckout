@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EE92A486-E45E-4817-B6E6-27B6D7602D60</string>
+	<key>IDESourceControlProjectName</key>
+	<string>frc-bug</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>837EA8D17E1F17CAFF5CF7773D47EC6D72B2CADA</key>
+		<string>https://github.com/adly-holler/frc-child-context-bug</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>frc-bug.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>837EA8D17E1F17CAFF5CF7773D47EC6D72B2CADA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/adly-holler/frc-child-context-bug</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>837EA8D17E1F17CAFF5CF7773D47EC6D72B2CADA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>837EA8D17E1F17CAFF5CF7773D47EC6D72B2CADA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>frc-child-context-bug</string>
+		</dict>
+	</array>
+</dict>
+</plist>

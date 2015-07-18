@@ -17,7 +17,6 @@
 		CC73E2131B5AFF86001977FA /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC73E2121B5AFF86001977FA /* CoreDataStack.swift */; };
 		CC73E2151B5B0034001977FA /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC73E2141B5B0034001977FA /* Employee.swift */; };
 		CC73E2181B5B0035001977FA /* Department.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC73E2171B5B0035001977FA /* Department.swift */; };
-		CC73E21D1B5B0630001977FA /* BUGFetchedResultsController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC73E21C1B5B0630001977FA /* BUGFetchedResultsController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,8 +45,6 @@
 		CC73E2141B5B0034001977FA /* Employee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
 		CC73E2171B5B0035001977FA /* Department.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Department.swift; sourceTree = "<group>"; };
 		CC73E21A1B5B0630001977FA /* frc-bugTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "frc-bugTests-Bridging-Header.h"; sourceTree = "<group>"; };
-		CC73E21B1B5B0630001977FA /* BUGFetchedResultsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BUGFetchedResultsController.h; sourceTree = "<group>"; };
-		CC73E21C1B5B0630001977FA /* BUGFetchedResultsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BUGFetchedResultsController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +110,6 @@
 		CC73E2051B5AFEFE001977FA /* frc-bugTests */ = {
 			isa = PBXGroup;
 			children = (
-				CC73E21B1B5B0630001977FA /* BUGFetchedResultsController.h */,
-				CC73E21C1B5B0630001977FA /* BUGFetchedResultsController.m */,
 				CC73E2081B5AFEFE001977FA /* frc_bugTests.swift */,
 				CC73E2121B5AFF86001977FA /* CoreDataStack.swift */,
 				CC73E2061B5AFEFE001977FA /* Supporting Files */,
@@ -243,7 +238,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC73E21D1B5B0630001977FA /* BUGFetchedResultsController.m in Sources */,
 				CC73E2091B5AFEFE001977FA /* frc_bugTests.swift in Sources */,
 				CC73E2131B5AFF86001977FA /* CoreDataStack.swift in Sources */,
 			);

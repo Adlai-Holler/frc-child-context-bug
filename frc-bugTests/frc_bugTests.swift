@@ -50,6 +50,7 @@ class frc_bugTests: XCTestCase {
 			jim.department = grunts
 			var error: NSError?
 			// MARK: Comment to fix
+			var err: NSError?
 			assert(childCtx.save(&error))
 		}
     }
